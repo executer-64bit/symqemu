@@ -55,7 +55,7 @@ Several compilation options are available:
 ## Running SymQEMU
 
 If you built SymQEMU as described above, the binary will be in
-`x86_64-linux-user/symqemu-x86_64`. For a quick test, try the following:
+`build/qemu-x86_64`. For a quick test, try the following:
 
 ``` shell
 $ mkdir /tmp/output
